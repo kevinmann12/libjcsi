@@ -1,0 +1,3 @@
+Allows Java applications to output to text console and emulated console. Provides both a JCurses based implementation and an emulated console using Swing.
+
+Moved to https://github.com/slashman/libjcsi
